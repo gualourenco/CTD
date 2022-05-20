@@ -1,0 +1,3 @@
+a interface do usuario eh um retorno de de um código complexo, de maneira simp-lificada para o usuario final administrar
+sem a necessidade de conhecimentos tecnicos.
+desculpa professor, estou treinando as funcoes mesmo

@@ -1,0 +1,2 @@
+ O git com o vs code é bem interessante, e complicado, mas esse comando nano é ótimo
+

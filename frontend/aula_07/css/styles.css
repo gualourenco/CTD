@@ -1,0 +1,30 @@
+*{
+    color: red;
+}
+h1{
+    color: fuchsia;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+
+h3 {
+    background-color: grey;
+    color: yellow;
+
+}
+
+.subtitle {
+    color: blueviolet;
+    font-family: "Lucida Sans";
+}
+
+#risoto {
+    background-color: aqua;
+}
